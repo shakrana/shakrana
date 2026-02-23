@@ -1,16 +1,59 @@
-## Hi there 👋
+# Hi, I'm Shakti Singh Rana 👋
 
-<!--
-**shakrana/shakrana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 ITSM & ServiceNow Professional
 
-Here are some ideas to get you started:
+Experienced IT professional with background in **IT Support, Major Incident Management, and ServiceNow Administration**.
+Currently building skills in **automation, scripting, and IT process optimization** using GitHub.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👨‍💻 About Me
+
+* 🔧 ServiceNow Administration & ITSM Operations
+* 🚨 Major Incident Management & Root Cause Analysis
+* 📊 Process Improvement & Reporting
+* 🧠 Learning scripting and automation for IT operations
+* 🌱 Exploring DevOps concepts and workflow automation
+
+---
+
+## 🛠️ Skills & Tools
+
+* ServiceNow
+* ITIL Framework
+* Incident Management
+* Workflow Automation
+* IT Support & Troubleshooting
+* Basic Scripting (Learning Phase)
+* Windows Server & Active Directory
+
+---
+
+## 📂 Learning Projects (In Progress)
+
+I am using GitHub to document automation ideas and IT operations improvements.
+
+* Incident Management Workflow Documentation
+* ServiceNow Automation Scripts (Learning)
+* IT Support Knowledge Base
+* Process Optimization Examples
+
+---
+
+## 📈 Current Learning Goals
+
+* JavaScript for ServiceNow scripting
+* Automation using APIs
+* DevOps fundamentals
+* Git & Version Control best practices
+
+---
+
+## 📫 Connect With Me
+
+* LinkedIn: https://linkedin.com/in/shaktisinghrana
+* Email: [shakrana@gmail.com](mailto:shakrana@gmail.com)
+
+---
+
+⭐ *Always learning and improving IT service delivery through technology.*
