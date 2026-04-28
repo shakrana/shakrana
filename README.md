@@ -9,7 +9,6 @@ Currently building skills in **automation, scripting, and IT process optimizatio
 
 ## 👨‍💻 About Me
 
-* 🔧 ServiceNow Administration & ITSM Operations
 * 🚨 Major Incident Management & Root Cause Analysis
 * 📊 Process Improvement & Reporting
 * 🧠 Learning scripting and automation for IT operations
@@ -19,7 +18,6 @@ Currently building skills in **automation, scripting, and IT process optimizatio
 
 ## 🛠️ Skills & Tools
 
-* ServiceNow
 * ITIL Framework
 * Incident Management
 * Workflow Automation
