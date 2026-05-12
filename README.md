@@ -2,7 +2,7 @@
 
 ### AI Engineer | Machine Learning Enthusiast | IT Operations Professional
 
-Passionate technology professional with 6+ years of experience across IT Operations, Data Analysis, Incident Management, and Frontend Development. Currently specializing in Artificial Intelligence & Machine Learning with Drone Technology at TiHAN IIT Hyderabad.
+Passionate technology professional with 7+ years of experience across IT Operations, Data Analysis, Incident Management, and Frontend Development. Currently specializing in Artificial Intelligence & Machine Learning with Drone Technology at TiHAN IIT Hyderabad.
 
 I enjoy building practical AI solutions, working with machine learning models, and exploring how automation and intelligent systems can solve real-world problems.
 
